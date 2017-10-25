@@ -1,3 +1,7 @@
+# folders
+/GeneratedFiles
+/Debug
+
 # Prerequisites
 *.d
 
