@@ -1,4 +1,4 @@
-# Custom Controler
+# Custom Controlor
 自定义的一些qt控件
 
 ## 信息提示框 CCustomInfoBox
