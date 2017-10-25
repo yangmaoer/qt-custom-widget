@@ -7,4 +7,4 @@
 CCustomInfoBox::Info("Message", parent, CCustomInfoBox::ANCHOR_BOTTOMRIGHT);
 `
 
-## CCustomTitleBar
+## 自定义标题栏 CCustomTitleBar
